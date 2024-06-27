@@ -1,22 +1,23 @@
 # ep1-superteem
 
-A Clojure library designed to ... well, that part is up to you.
+The result of Relation Mapping process, looks like as I'm helping Bruce Joy make sense of the system
+underpinning 1Unit, a survey and task management system used by hospitals in Australia, US and Canada.
+In the video, we are dissecting the backend to provide more context into how to refactor the application
+and to provide a more general understanding of concepts and design. Through this, a founder will have
+better understanding of the platform design from a db/dataflow perspective. The video captures the entire
+mapping session where I spent 3 hrs asking questions to Bruce (founder and domain expert) in order to
+extract the necessary structure for better communication with his tech team:
 
-## Usage
+Video: https://lnkd.in/gjuxU8BZ
+Current API: http://qa.riberry.health
 
-FIXME
+
+## Generated Artifacts:
+
+
+
+
 
 ## License
 
 Copyright © 2024 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.

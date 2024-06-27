@@ -202,5 +202,3 @@
                   :ref {:ns -/PathwayContent}}
    :interaction      {:type :ref :required true
                       :ref {:ns -/Interaction}}])
-
-(defn hello [])
